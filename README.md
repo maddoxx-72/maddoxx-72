@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AWS,blender,unreal engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- 12jobinthomas@gmail.com
-- 😄 Pronouns: Not mentally illed (He).
 - ⚡ Fun fact: ...
 
 <!---
